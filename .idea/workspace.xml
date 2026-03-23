@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a8f51fd-920c-45ff-b4d4-9115b870a8ac" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="39Q2aUKrSFvhrdzQI6YL6qJA2iW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.offline_simulation">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="EEG_BCI_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="no_UDP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EEG_BCI_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paradigm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paradigm/no_UDP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offline_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EEG_BCI_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paradigm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paradigm/offline_simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EEG_BCI_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paradigm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paradigm/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_plus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EEG_BCI_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paradigm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paradigm/train_plus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EEG_BCI_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paradigm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paradigm/xdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.offline_simulation" />
+        <item itemvalue="Python.xdf" />
+        <item itemvalue="Python.no_UDP" />
+        <item itemvalue="Python.train_plus" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8f51fd-920c-45ff-b4d4-9115b870a8ac" name="默认更改列表" comment="" />
+      <created>1770614036314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770614036314</updated>
+      <workItem from="1770614039969" duration="720000" />
+      <workItem from="1770615005009" duration="2538000" />
+      <workItem from="1770619749564" duration="298000" />
+      <workItem from="1770620535789" duration="3000" />
+      <workItem from="1770684800931" duration="894000" />
+      <workItem from="1770686422664" duration="3620000" />
+      <workItem from="1770714037826" duration="1613000" />
+      <workItem from="1770770554169" duration="6514000" />
+      <workItem from="1770787670546" duration="963000" />
+      <workItem from="1770789784031" duration="286000" />
+      <workItem from="1770790116007" duration="564000" />
+      <workItem from="1770790777611" duration="1595000" />
+      <workItem from="1770861419082" duration="7201000" />
+      <workItem from="1770965379673" duration="8005000" />
+      <workItem from="1772671781372" duration="19268000" />
+      <workItem from="1772773370295" duration="8035000" />
+      <workItem from="1772789090523" duration="453000" />
+      <workItem from="1773056400296" duration="7684000" />
+      <workItem from="1773103816467" duration="19140000" />
+      <workItem from="1773135283003" duration="759000" />
+      <workItem from="1773276248789" duration="15788000" />
+      <workItem from="1773301086947" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1772788629826">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="371" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.752@0.0.1280.752" timestamp="1772788629826" />
+    <state x="322" y="195" key="FileChooserDialogImpl" timestamp="1773112287123">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="322" y="195" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1773112287123" />
+    <state width="595" height="142" key="GridCell.Tab.0.bottom" timestamp="1773299529383">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="595" height="142" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1773299529383" />
+    <state width="595" height="142" key="GridCell.Tab.0.center" timestamp="1773299529383">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="595" height="142" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1773299529383" />
+    <state width="595" height="142" key="GridCell.Tab.0.left" timestamp="1773299529383">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="595" height="142" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1773299529383" />
+    <state width="595" height="142" key="GridCell.Tab.0.right" timestamp="1773299529383">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="595" height="142" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1773299529383" />
+    <state width="1238" height="233" key="GridCell.Tab.1.bottom" timestamp="1773135090922">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.1.bottom/0.0.1280.752@0.0.1280.752" timestamp="1773135090922" />
+    <state width="1238" height="233" key="GridCell.Tab.1.center" timestamp="1773135090922">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.1.center/0.0.1280.752@0.0.1280.752" timestamp="1773135090922" />
+    <state width="1238" height="233" key="GridCell.Tab.1.left" timestamp="1773135090920">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.1.left/0.0.1280.752@0.0.1280.752" timestamp="1773135090920" />
+    <state width="1238" height="233" key="GridCell.Tab.1.right" timestamp="1773135090922">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="233" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1773135090922" />
+    <state x="280" y="38" key="SettingsEditor" timestamp="1773301179049">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="280" y="38" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1773301179049" />
+    <state x="340" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1770861419096">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="340" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.752@0.0.1280.752" timestamp="1770861419096" />
+    <state x="625" y="73" width="672" height="678" key="search.everywhere.popup" timestamp="1773126394471">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="625" y="73" width="672" height="678" key="search.everywhere.popup/0.0.1280.752@0.0.1280.752" timestamp="1773126394471" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$mi_test_psychopy__1_.coverage" NAME="mi_test_psychopy (1) Coverage Results" MODIFIED="1772788420204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$mi_test_psychopy.coverage" NAME="mi_test_psychopy Coverage Results" MODIFIED="1772788735437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$mi_psychopy__1_.coverage" NAME="mi_psychopy (1) Coverage Results" MODIFIED="1770614587491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$train.coverage" NAME="train Coverage Results" MODIFIED="1773125601716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$run_classifier.coverage" NAME="run_classifier Coverage Results" MODIFIED="1772787269453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$mi_train_psychopy.coverage" NAME="mi_train_psychopy Coverage Results" MODIFIED="1773124407508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$no_UDP.coverage" NAME="no_UDP Coverage Results" MODIFIED="1773284939345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$lslReceiver.coverage" NAME="lslReceiver Coverage Results" MODIFIED="1772788647817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$000.coverage" NAME="000 Coverage Results" MODIFIED="1773057445010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$main_online.coverage" NAME="main_online Coverage Results" MODIFIED="1773121820517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$mi_psychopy.coverage" NAME="mi_psychopy Coverage Results" MODIFIED="1770614445126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$train_plus.coverage" NAME="train_plus Coverage Results" MODIFIED="1773284741859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$xdf.coverage" NAME="xdf Coverage Results" MODIFIED="1773285100944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$psychopy.coverage" NAME="psychopy Coverage Results" MODIFIED="1772786173621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$brainflow_lsl.coverage" NAME="brainflow_lsl Coverage Results" MODIFIED="1770687237952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$online_test.coverage" NAME="online_test Coverage Results" MODIFIED="1773068316099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$offline_simulation.coverage" NAME="offline_simulation Coverage Results" MODIFIED="1773294598363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$online_decoder.coverage" NAME="online_decoder Coverage Results" MODIFIED="1772789449871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$curctrl_classifier.coverage" NAME="curctrl_classifier Coverage Results" MODIFIED="1772788403465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm" />
+    <SUITE FILE_PATH="coverage/EEG_BCI_Project$drone_controller.coverage" NAME="drone_controller Coverage Results" MODIFIED="1773119768842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paradigm/online" />
+  </component>
+</project>
